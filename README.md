@@ -1,4 +1,4 @@
-# Enterprise Multi-Agent AI Recruitment Assessment System
+# Multi-Agent AI Recruitment Assessment System
 
 An enterprise-grade talent evaluation platform powered by specialized AI agents for resume extraction, skill-competency matching, live sandboxed code assessment, virtual audio screening, demographic-blind fair scoring, and human-in-the-loop shortlisting.
 
