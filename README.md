@@ -233,7 +233,7 @@ All 6 tests verify:
 |---|---|---|
 | `GEMINI_API_KEY` | Google Gemini API Key | Pre-configured verified key |
 | `DEFAULT_MODEL` | Default Gemini Model | `gemini-3.6-flash` |
-| `OPENAI_API_KEY` | OpenAI API Key (Optional) | `sk-proj-...` |
+| `OPENAI_API_KEY` | OpenAI API Key (Optional) | `.....` |
 | `DEFAULT_LLM_PROVIDER` | Active LLM Provider (`gemini` / `openai` / `demo`) | `gemini` |
 | `EXECUTION_PROVIDER` | Sandbox Runner (`docker` / `e2b` / `subprocess`) | `docker` |
 | `DATABASE_URL` | Database Connection String | `sqlite:///./recruitment_system.db` or PostgreSQL |
@@ -251,4 +251,4 @@ All 6 tests verify:
 6. **Fair Scoring**: Inspect side-by-side **Identity Vault (Masked)** vs **Evaluation Data**, review 4-part weighted merit formula, and verify 7-point fairness audit compliance.
 7. **Candidate Report**: Consolidated printable assessment dossier summarizing all agent findings.
 8. **HR Shortlisting**: Human reviewer decision center (*Approve Shortlist*, *Reject*, *Request Re-Eval*), reviewer notes logging, and automated HR notification dispatch queue.
->>>>>>> e4824e1 (Initial commit: Multi-Agent AI Recruitment Assessment System)
+
